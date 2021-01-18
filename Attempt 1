@@ -42,7 +42,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
 .theme-dark .noChannel-Z1DQK7,
 .theme-dark .gameLibrary-TTDw4Y,
 .theme-dark .applicationStore-1pNvnv {
-    background: url ('https://wallpaperaccess.com/full/632787.jpg');
+    background: url (https://wallpaperaccess.com/full/632787.jpg);
 }
 .theme-dark .wrapper-29NfPK,
 .video-1FfuMD,
@@ -982,7 +982,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
 }
 .da-homeIcon {
     color: transparent !important;
-    background: url(https://i.pinimg.com/originals/b3/04/d1/b304d13191831616e48b734eba706c9a.png) center no-repeat; 
+    background: (https://asteria5675.github.io/src/themes/svgs/home_icon.svg) center no-repeat; 
     background-size: 36px;
     z-index: 2;
     width: 56px; height: 56px;
@@ -1771,7 +1771,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
     height: 24px;
     margin-left: -8px;
     top: -15px;
-    background: url(https://asteria5675.github.io/src/themes/svgs/edited.svg) center no-repeat;
+    background: url(https://wallpaperaccess.com/full/632787.jpg) center no-repeat;
     background-size: 18px 22px;
 }
 /* */
